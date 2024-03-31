@@ -1,0 +1,3 @@
+Docker image: ajeet9415/nodeapp1:01
+
+Step I: kubectl apply -f deployment-single.yaml
